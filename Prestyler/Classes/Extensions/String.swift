@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 /// Prestyler uses a public extension to provide access for string formating
 
 public extension String {

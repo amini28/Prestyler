@@ -4,6 +4,7 @@
 //
 //  Created by Ilya Krupko on 28/02/2019.
 //
+import UIKit
 
 struct TextRule {
     let styles: [Any]

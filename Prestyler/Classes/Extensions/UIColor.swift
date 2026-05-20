@@ -4,6 +4,7 @@
 //
 //  Created by Ilya Krupko on 25.10.2021.
 //
+import UIKit
 
 extension UIColor {
     func mixin(infusion: UIColor, alpha: CGFloat) -> UIColor {

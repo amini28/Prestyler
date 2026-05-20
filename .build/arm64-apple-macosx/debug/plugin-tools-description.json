@@ -1,0 +1,332 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Prestyler-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/sources",
+      "importPath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String+PrestyleFiltring.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/UIColor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Precolor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/TextRule.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Prestyler",
+      "moduleOutputPath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Modules/Prestyler.swiftmodule",
+      "objects" : [
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.swift.o",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/include/Prestyler-Swift.h",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.4.sdk",
+        "-target",
+        "arm64-apple-ios15.0-simulator",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g"
+      ],
+      "outputFileMapPath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Modules/Prestyler.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Constants.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String+PrestyleFiltring.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/UIColor.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Precolor.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyle.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyler.swift",
+        "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/TextRule.swift"
+      ],
+      "tempsPath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Prestyler" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Prestyler",
+      "-c",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Constants.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String+PrestyleFiltring.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/UIColor.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Precolor.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyle.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyler.swift",
+      "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/TextRule.swift",
+      "-I",
+      "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/include/Prestyler-Swift.h",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.4.sdk",
+      "-target",
+      "arm64-apple-ios15.0-simulator",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Prestyler" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String+PrestyleFiltring.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/UIColor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Precolor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyler.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/TextRule.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/sources"
+    },
+    "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

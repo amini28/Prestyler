@@ -1,0 +1,61 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/primary.swiftdeps"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Constants.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Constants.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String+PrestyleFiltring.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String+PrestyleFiltring.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/String.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/String.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Extensions/UIColor.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/UIColor.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Precolor.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Precolor.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyle.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyle.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/Prestyler.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/Prestyler.dia"
+  },
+  "/Users/admin/OfficeWorks/Prestyler/Prestyler/Classes/TextRule.swift": {
+    "dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.d",
+    "object": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.swift.o",
+    "swiftmodule": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.swiftdeps",
+    "diagnostics": "/Users/admin/OfficeWorks/Prestyler/.build/arm64-apple-macosx/debug/Prestyler.build/TextRule.dia"
+  }
+}
